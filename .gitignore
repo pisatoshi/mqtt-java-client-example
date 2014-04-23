@@ -1,0 +1,12 @@
+/.settings
+/.project
+/.classpath
+
+*.swp
+.DS_Store
+/target
+*.db
+*.class
+
+.idea
+/out
